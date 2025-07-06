@@ -1,9 +1,6 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Syne&color=fff&size=55&center=true&vCenter=true&width=500&height=100&duration=2000&lines=Bonjour+!👋🥐;+I'm+Max+Bodin+!;" />
-    <h3 align="center">A passionate software developer from France 🇫🇷</h3>
-</div>
+# 👨‍💻 Hi, I'm Maxime!
 
-<br/>
+### 🎓 Software Architect Apprentice
 
 <div align="center">
 
@@ -48,7 +45,6 @@
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=maxbodin&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My Github Streak Stats"/>
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=maxbodin&hide_border=true&count_private=true&show_icons=true&theme=transparent" alt="My Github Stats" />
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=maxbodin&hide=HTML&langs_count=8&layout=compact&theme=transparent&hide_border=true" alt="My Github Top Languages" />
 </div>
